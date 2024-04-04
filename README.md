@@ -21,6 +21,9 @@ O recurso que usei foi a de 100 produtos, uma API fictícia que tem 100 produtos
    'https://cdn.dummyjson.com/product-images/19/3.png',
    'https://cdn.dummyjson.com/product-images/19/thumbnail.jpg']}
 ```
+###### Link
+https://dummyjson.com/
+https://dummyjson.com/products
 
 ### Instalação
 
