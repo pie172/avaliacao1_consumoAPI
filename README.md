@@ -53,7 +53,7 @@ Para executar o projeto, siga os seguintes comandos:
   ```sh
     pip install -r requirements.txt
   ```
-### Rodar Script
+### Iniciar Script
 
   ```sh
   python products_class.py
