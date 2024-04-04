@@ -30,7 +30,10 @@ https://dummyjson.com/products
 
 Para executar o projeto, siga os seguintes comandos:
 
-
+  * Clone o repositório na sua máquina
+  ```sh
+    https://github.com/pie172/avaliacao1_consumoAPI.git
+  ```
   * Entre no diretorório e Instale o virtualenv
   ```sh
   pip install virtualenv
@@ -49,6 +52,11 @@ Para executar o projeto, siga os seguintes comandos:
   * Instale as dependências 
   ```sh
     pip install -r requirements.txt
+  ```
+### Rodar Script
+
+  ```sh
+  python products_class.py
   ```
 
 ### Opções
